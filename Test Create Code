@@ -35,5 +35,7 @@ WebUI.click(findTestObject('Page_Hc liu - Sch Mm/a_S hc sinh vo lm bi 0_optionDr
 
 WebUI.click(findTestObject('Page_Hc liu - Sch Mm/a_To m lm bi tp'))
 
+WebUI.delay(10)
+
 WebUI.closeBrowser()
 
